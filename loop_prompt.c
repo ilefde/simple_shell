@@ -7,4 +7,5 @@
 
 void *prompt()
 {
+  write(1,'$',1);
 }
